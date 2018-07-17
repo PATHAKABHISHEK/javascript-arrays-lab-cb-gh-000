@@ -1,5 +1,6 @@
 // Add your functions and code here
 var kittens = []
-var destructivelyAppenKitten = (name) =>{
+
+var destructivelyAppendKitten = (name) =>{
   kittens.push(name)
 }
