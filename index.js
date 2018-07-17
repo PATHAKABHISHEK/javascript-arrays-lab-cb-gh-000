@@ -17,3 +17,4 @@ var destructivelyRemoveFirstKitten = () =>{
   kittens.shift()
 }
 
+var 
