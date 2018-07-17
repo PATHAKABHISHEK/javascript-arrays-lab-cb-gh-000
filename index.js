@@ -4,3 +4,7 @@ var kittens = []
 var destructivelyAppendKitten = (name) =>{
   kittens.push(name)
 }
+
+var destructivelyPrependKitten = (name) =>{
+  
+}
